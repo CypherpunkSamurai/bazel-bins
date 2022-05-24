@@ -1,0 +1,6 @@
+--classpath
+bazel-out/k8-fastbuild/bin/third_party/_ijar/auto_value_value_checked_in/third_party/auto/auto-value-1.6.3rc1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/auto_value_value_checked_in/third_party/auto/auto-value-annotations-1.6.3rc1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/tomcat_annotations_api_checked_in/third_party/tomcat_annotations_api/tomcat-annotations-api-8.0.5-ijar.jar
+--reduce_classpath_mode
+JAVABUILDER_REDUCED

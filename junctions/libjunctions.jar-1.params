@@ -1,0 +1,17 @@
+--classpath
+bazel-out/k8-fastbuild/bin/src/main/java/com/google/devtools/build/lib/windows/libfile-hjar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/guava_checked_in/third_party/guava/failureaccess-1.0.1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/guava_checked_in/third_party/guava/guava-29.0-jre-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/error_prone_annotations_checked_in/third_party/error_prone/error_prone_annotations-2.5.1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/error_prone_annotations_checked_in/third_party/error_prone/error_prone_type_annotations-2.5.1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/jcip_annotations_checked_in/third_party/jcip_annotations/jcip-annotations-1.0-1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/jsr305_checked_in/third_party/jsr305/jsr-305-ijar.jar
+bazel-out/k8-fastbuild/bin/src/main/java/com/google/devtools/build/lib/jni/libjni-hjar.jar
+bazel-out/k8-fastbuild/bin/src/main/java/com/google/devtools/build/lib/util/libos-hjar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/flogger_checked_in/third_party/flogger/flogger-0.5.1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/flogger_checked_in/third_party/flogger/flogger-system-backend-0.5.1-ijar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/flogger_checked_in/third_party/flogger/google-extensions-0.5.1-ijar.jar
+--reduce_classpath_mode
+JAVABUILDER_REDUCED
+--deps_artifacts
+bazel-out/k8-fastbuild/bin/src/main/java/com/google/devtools/build/lib/windows/libfile-hjar.jdeps

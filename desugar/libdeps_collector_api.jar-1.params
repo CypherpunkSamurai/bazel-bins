@@ -1,0 +1,7 @@
+--classpath
+bazel-out/k8-fastbuild/bin/src/tools/android/java/com/google/devtools/build/android/r8/libutils-hjar.jar
+bazel-out/k8-fastbuild/bin/third_party/_ijar/jsr305_checked_in/third_party/jsr305/jsr-305-ijar.jar
+--reduce_classpath_mode
+JAVABUILDER_REDUCED
+--deps_artifacts
+bazel-out/k8-fastbuild/bin/src/tools/android/java/com/google/devtools/build/android/r8/libutils-hjar.jdeps

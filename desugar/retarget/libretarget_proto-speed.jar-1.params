@@ -1,0 +1,10 @@
+--classpath
+bazel-out/k8-fastbuild/bin/src/tools/android/java/com/google/devtools/build/android/desugar/langmodel/libdesugar_class_attr_proto-speed-hjar.jar
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/libcore-hjar.jar
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/liblite-hjar.jar
+--reduce_classpath_mode
+JAVABUILDER_REDUCED
+--deps_artifacts
+bazel-out/k8-fastbuild/bin/src/tools/android/java/com/google/devtools/build/android/desugar/langmodel/libdesugar_class_attr_proto-speed-hjar.jdeps
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/liblite-hjar.jdeps
+bazel-out/k8-fastbuild/bin/external/com_google_protobuf/java/core/libcore-hjar.jdeps
